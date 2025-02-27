@@ -7,7 +7,7 @@
 
 ## 📂 About Me
 - 🌱 현재: 클라우드 엔지니어 취업 준비 중  
-- 🔥 관심 기술: AWS, Kubernetes, DevOps, Backend (Node.js, Firebase)  
+- 🔥 관심 기술: AWS, Kubernetes, IaC, ArgoCD
 - 🏆 주요 자격증: AWS-SAA, CKA, 정보처리기사
 
 ---
@@ -21,13 +21,13 @@
   - 백엔드 서버 구축 및 데이터베이스 설계  
   - AI 기반 감정 분석 알고리즘 구현  
   - 배포 및 운영 모니터링 환경 구축  
-
+    사이트 - https://insideu-e7710.firebaseapp.com
 ### 2. [AWS 기반 클라우드 서비스 구축 프로젝트](링크)
 - 🛠 **기술 스택**: AWS EC2, S3, Lambda, Terraform, Kubernetes  
 - 💡 **설명**: AWS 인프라를 활용한 클라우드 서비스 구축 및 모니터링 시스템 개발  
 - 🎯 **주요 기여**:
-  - AWS Lambda를 활용한 서버리스 아키텍처 설계  
-  - Terraform으로 인프라 자동화  
+  -   
+  -   
   - Kubernetes를 활용한 컨테이너 오케스트레이션  
 
 ---
