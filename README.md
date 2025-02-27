@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hwang JunSeo</h1>
-- 📫 How to reach me **hjs440801@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me: hjs440801@gmail.com</h3>
 <p align="left">
 </p>
 
