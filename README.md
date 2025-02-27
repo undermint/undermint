@@ -8,7 +8,7 @@
 ## 📂 About Me
 - 🌱 현재: 클라우드 엔지니어 취업 준비 중  
 - 🔥 관심 기술: AWS, Kubernetes, DevOps, Backend (Node.js, Firebase)  
-- 🏆 주요 자격증: CKA, AWS-DEA, 네트워크관리사 2급, 정보처리기사  
+- 🏆 주요 자격증: AWS-SAA, CKA, 정보처리기사
 
 ---
 
@@ -85,7 +85,5 @@
 ---
 
 ## 📞 Contact
-- 🔗 GitHub: [github.com/username](https://github.com/username)  
-- 🔗 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)  
-- ✉️ Email: your.email@example.com 
+- ✉️ Email: hjs440801@gmail.com
 - Blog: https://velog.io/@under_js/ 
