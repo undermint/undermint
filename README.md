@@ -1,10 +1,91 @@
-<h1 align="center">Hi 👋, I'm Hwang JunSeo</h1>
+#  👋, I'm Hwang JunSeo
+
+안녕하세요! 클라우드 엔지니어를 목표로 하는 황준서입니다.  
+꾸준히 배우고 성장하는 개발자가 되기 위해 노력하고 있습니다. 🚀
+
+---
+
+## 📂 About Me
+- 🌱 현재: 클라우드 엔지니어 취업 준비 중  
+- 🔥 관심 기술: AWS, Kubernetes, DevOps, Backend (Node.js, Firebase)  
+- 🏆 주요 자격증: CKA, AWS-DEA, 네트워크관리사 2급, 정보처리기사  
+
+---
+
+## 💼 Projects
+
+### 1. [Node.js와 Firebase를 활용한 감정 분석 AI 일기 웹사이트](링크)
+- 🛠 **기술 스택**: Node.js, Firebase, Firestore, Express, 카카오톡 API  
+- 💡 **설명**: 감정 카드를 작성하고 AI 분석을 통해 감정을 피드백해주는 서비스  
+- 🎯 **주요 기여**:
+  - 백엔드 서버 구축 및 데이터베이스 설계  
+  - AI 기반 감정 분석 알고리즘 구현  
+  - 배포 및 운영 모니터링 환경 구축  
+
+### 2. [AWS 기반 클라우드 서비스 구축 프로젝트](링크)
+- 🛠 **기술 스택**: AWS EC2, S3, Lambda, Terraform, Kubernetes  
+- 💡 **설명**: AWS 인프라를 활용한 클라우드 서비스 구축 및 모니터링 시스템 개발  
+- 🎯 **주요 기여**:
+  - AWS Lambda를 활용한 서버리스 아키텍처 설계  
+  - Terraform으로 인프라 자동화  
+  - Kubernetes를 활용한 컨테이너 오케스트레이션  
+
+---
+
+## 📜 Certifications & Education
+- 📚 **자격증**  
+  - AWS Certified Solutions Architect – Associate (SAA)  
+  - Certified Kubernetes Administrator (CKA)  
+  - AWS Certified Data Engineer – Associate (DEA)
+  - 정보처리기사
+  - 리눅스 마스터 2급
+  - 네트워크 관리사 2급  
+
+- 🎓 **교육 과정**  
+  - 대우능력개발원 - 클라우드 기반 정보시스템 구축 전문가 양성
 
 
-<h3 align="left">Connect with me: hjs440801@gmail.com</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+## 📊 Skills & Tools
+## 📊 Skills & Tools
 
+### ☁️ Cloud & DevOps
+- **Cloud Platforms**: AWS (EC2, RDS, S3, VPC, EKS), GCP, Firebase  
+- **Containerization & Orchestration**: Docker 23.0.3, Kubernetes (1.28.8, 1.31.2)  
+- **CI/CD & Automation**: Shell Script  
+
+### 🖥️ Backend & Database
+- **Languages**: Node.js, Java, Python, JavaScript, Bash  
+- **Frameworks**: Express, Firebase Functions  
+- **Database**: MySQL  
+
+### 🎨 Frontend & UI
+- **Web Technologies**: HTML5, Vue.js, Vuetify  
+
+### 🛠️ Tools & Platforms
+- **Version Control**: Git 2.47.1, GitHub (Fork, Pull Request, Branching)  
+- **API & Testing**: Postman  
+- **Virtualization**: VMware Workstation Pro, VirtualBox  
+- **Hardware & IoT**: Arduino  
+
+### 🌐 Networking
+- **Tools**: Cisco Packet Tracer, XShell 8, GNS3  
+- **Devices**: L3 Switch (CISCO Catalyst 3550), Router (CISCO 2600)  
+- **Emulators**: IOU-Web  
+
+### 🔒 Security
+- **Firewall**: ASA842  
+
+### 🏗️ Operating Systems
+- **Linux**: Rocky 9.4, Ubuntu (20.04, 22.04, 24.04), Amazon Linux  
+- **Windows Server**: 2012, 2016  
+
+
+---
+
+## 📞 Contact
+- 🔗 GitHub: [github.com/username](https://github.com/username)  
+- 🔗 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)  
+- ✉️ Email: your.email@example.com 
+- Blog: https://velog.io/@under_js/ 
