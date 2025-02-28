@@ -59,6 +59,12 @@
 - 🎓 **교육 과정**  
   - 대우능력개발원 - 클라우드 기반 정보시스템 구축 전문가 양성
 
+    교육 과정:
+    
+     - 서버 (Linux, Window server)
+      - 네트워크 (Cisco)
+      - Docker & Kubernetes
+      - AWS (+EKS)
 ---
 
 
