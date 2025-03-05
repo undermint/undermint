@@ -9,6 +9,10 @@
 - 🌱 현재: 클라우드 엔지니어 취업 준비 중  
 - 🔥 관심 기술: AWS, Kubernetes, IaC, ArgoCD
 - 🏆 주요 자격증: AWS-SAA, CKA, 정보처리기사
+<img src="https://github.com/user-attachments/assets/90d565a2-d3ca-4289-9120-30e65c8c5ded" width="150" height="auto">
+<img src="https://github.com/user-attachments/assets/b454df73-6cd4-4ee0-b4a3-974040a0d338" width="150" height="auto">
+<img src="https://github.com/user-attachments/assets/e90fb8da-b098-4763-8671-ead58001203f" width="150" height="auto">
+
 
 ---
 
