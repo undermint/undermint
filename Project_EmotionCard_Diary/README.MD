@@ -10,7 +10,7 @@
 - 선택한 감정카드와 간단한 상황 입력만으로도 완성되는 AI 일기 작문
 - AI 감정 분석 및 인사이트 제공으로 사용자 스스로의 감정 이해와 성찰 지원
 
-🚀 **배포 사이트:** [Emotion AI Diary 바로가기](https://insideu-e7710.firebaseapp.com)
+🚀 **배포 사이트:** [InsideU 서비스 바로가기](https://insideu-e7710.firebaseapp.com)
 
  **프로젝트 보고서:** [감정카드일기](Project_EmotionCard_Diary/인사이드유_감정카드일기.pdf)
 
