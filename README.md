@@ -14,7 +14,7 @@
 
 ## 💼 Projects
 
-### 1. [Node.js와 Firebase를 활용한 감정 분석 AI 일기 웹사이트](링크)
+### 1. [Node.js와 Firebase를 활용한 감정 분석 AI 일기 웹사이트](https://github.com/undermint/undermint/tree/838b121d7ba1a467115d6b591737505eba0577eb/Project_EmotionCard_Diary)
 - 🛠 **기술 스택**: Node.js, Firebase, Firestore, Express, 카카오톡 API  
 - 💡 **설명**: 감정 카드를 작성하고 AI 분석을 통해 감정을 피드백해주는 서비스  
 - 🎯 **주요 기여**:
