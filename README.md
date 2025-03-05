@@ -73,7 +73,8 @@
 ### ☁️ Cloud & DevOps
 - **Cloud Platforms**: AWS (EC2, RDS, S3, VPC, EKS), GCP, Firebase  
 - **Containerization & Orchestration**: Docker 23.0.3, Kubernetes (1.28.8, 1.31.2)  
-- **CI/CD & Automation**: Shell Script  
+- **CI/CD & Automation**: Shell Script
+- **Infrastructure as Code (IaC)** : Terraform
 
 ### 🖥️ Backend & Database
 - **Languages**: Node.js, Java, Python, JavaScript, Bash  
