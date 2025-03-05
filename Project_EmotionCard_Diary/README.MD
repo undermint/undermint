@@ -16,6 +16,8 @@
 
 ---
 
+![감정 카드 작성 화면](Project_EmotionCard_Diary/인사이드유_감정카드일기.pdf)
+
 ## 🔧 기술 스택
 ### 🖥️ **Backend**
 - **Node.js** - 서버 및 API 개발
