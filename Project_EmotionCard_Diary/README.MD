@@ -89,6 +89,8 @@
 
 <img src="https://github.com/undermint/undermint/blob/main/Project_EmotionCard_Diary/asset/%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%80%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA2.png" width="500" height="300"/>
 
+
+---
 ###  🛠️ 기술적 도전 과제 및 해결 방법
 
 Kakao API 로그인
@@ -111,7 +113,9 @@ DB와 사진 저장 등의 관리
     도전 과제: 사용자 데이터를 관리하고, 사진을 업로드 및 저장하는 과정에서 데이터 용량 및 저장소 관리에 대한 고민이 있었다.
     해결 방법: Firebase Firestore를 사용하여 실시간 데이터베이스를 관리하고, Firebase Storage를 통해 이미지 파일을 효율적으로 저장 및 관리했다.
     보완 과제: 팀 내에서 효율적인 데이터 공유를 위해 Firebase DB를 사용함에 따라, 사용자 인증과 세션관리에 불편함을 겪음. 온프레미스 환경에서의 관리나 다른 방안의 모색이 필요함.
-        
+
+
+---
 ### 📈 향후 개선 사항
 
 친구 기능
