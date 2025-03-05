@@ -68,14 +68,7 @@
 
 
 
-<img src="https://github.com/undermint/undermint/blob/main/Project_EmotionCard_Diary/asset/%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC1.png" width="500" height="300"/>
-
-<img src="https://github.com/undermint/undermint/blob/main/Project_EmotionCard_Diary/asset/%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2.png" width="500" height="300"/>
-
-
-### 📊 감정 분석 결과
-
-<img src="https://github.com/undermint/undermint/blob/main/Project_EmotionCard_Diary/asset/%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%80%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA1.png" width="500" height="300"/><img src="https://github.com/undermint/undermint/blob/main/Project_EmotionCard_Diary/asset/%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%80%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA2.png" width="500" height="300"/>
+<img src="https://github.com/undermint/undermint/blob/main/Project_EmotionCard_Diary/asset/%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC1.png" width="500" height="300"/><img src="https://github.com/undermint/undermint/blob/main/Project_EmotionCard_Diary/asset/%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2.png" width="500" height="300"/>
 
 
 ### 📊 감정 분석 결과
