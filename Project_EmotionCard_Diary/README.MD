@@ -46,7 +46,7 @@
 <img src="https://github.com/undermint/undermint/blob/main/Project_EmotionCard_Diary/asset/%E1%84%80%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8F%E1%85%A1%E1%84%83%E1%85%B3%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8_02.png" width="120" height="120"/>
 <img src="https://github.com/undermint/undermint/blob/main/Project_EmotionCard_Diary/asset/%E1%84%80%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8F%E1%85%A1%E1%84%83%E1%85%B3%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8_02.png" width="90" height="90"/>
 ![title](https://github.com/undermint/undermint/blob/main/Project_EmotionCard_Diary/asset/%E1%84%80%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8F%E1%85%A1%E1%84%83%E1%85%B3%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8_02.png){: width="70%" height="70%"}
-![title](https://github.com/undermint/undermint/blob/main/Project_EmotionCard_Diary/asset/%E1%84%80%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8F%E1%85%A1%E1%84%83%E1%85%B3%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8_02.png){: width="50%" height="50%"}
+![title](https://github.com/undermint/undermint/blob/main/Project_EmotionCard_Diary/asset/%E1%84%80%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8F%E1%85%A1%E1%84%83%E1%85%B3%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8_02.png){: width="30%" height="30%"}
 ### 💡 감정 카드 작성 화면
 
 
