@@ -87,7 +87,7 @@
 ### 🛠️ Tools & Platforms
 - **Version Control**: Git 2.47.1, GitHub (Fork, Pull Request, Branching)  
 - **API & Testing**: Postman  
-- **Virtualization**: VMware Workstation Pro, VirtualBox  
+- **Virtualization**: VMware Workstation Pro, VirtualBox, vSphere
 - **Hardware & IoT**: Arduino  
 
 ### 🌐 Networking
