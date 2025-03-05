@@ -12,7 +12,7 @@
 ---
 🚀 **배포 사이트:** [InsideU 서비스 바로가기](https://insideu-e7710.firebaseapp.com)
 
- **프로젝트 보고서:** [InsideU 감정카드일기.pdf](Project_EmotionCard_Diary/인사이드유_감정카드일기.pdf)
+ **프로젝트 보고서:** ![InsideU 감정카드일기.pdf](Project_EmotionCard_Diary/인사이드유_감정카드일기.pdf)
 
 ---
 
