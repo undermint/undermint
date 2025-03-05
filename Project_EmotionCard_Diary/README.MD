@@ -5,6 +5,7 @@
 감정을 기록하며 자신의 상태를 돌아볼 수 있도록 돕습니다.  
 
 🚀 **배포 사이트:** [Emotion AI Diary 바로가기](https://insideu-e7710.firebaseapp.com)
+
      **프로젝트 보고서:** [감정카드일기](Project_EmotionCard_Diary/인사이드유_감정카드일기.pdf)
 
 ---
