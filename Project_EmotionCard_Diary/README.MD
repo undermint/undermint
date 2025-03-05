@@ -16,20 +16,35 @@
 
 ---
 
-## 🔧 기술 스택
-### 🖥️ **Backend**
-- **Node.js** - 서버 및 API 개발
-- **Firebase Functions** - 서버리스 백엔드 구현
-- **Firestore** - NoSQL 데이터베이스
-- **Kakao API** - 로그인 및 메시지 전송 기능
+## 🔧 기술 스택  
 
-### 🌐 **Frontend**
-- **Vue.js** - 프론트엔드 UI 개발
-- **Vuetify** - UI 디자인 프레임워크
+### 🎨 **UI/UX**  
+- **Figma** - UI/UX 디자인  
 
-### 🔍 **AI 분석**
-- **NLP 기반 감정 분석 모델** - 감정 데이터를 분석하여 피드백 제공
+### 🌐 **Frontend**  
+- **Vue CLI 3** - Vue.js 프로젝트 설정 및 개발  
+- **Vuetify** - UI 디자인 프레임워크  
+- **Axios** - API 통신 라이브러리  
 
+### 🖥️ **Backend**  
+- **Node.js** - 서버 개발  
+- **Express** - REST API 구축  
+
+### 🤖 **AI & 데이터 처리**  
+- **ChatGPT API** - AI 기반 감정 분석 및 자동 일기 생성  
+
+### 🔥 **Firebase (배포 & 백엔드 서비스)**  
+- **Firestore Database** - NoSQL 실시간 데이터베이스  
+- **Firebase Hosting** - 정적 웹사이트 배포  
+- **Firebase Functions** - 서버리스 백엔드 (Node.js 기반 API)  
+- **Firebase Storage** - 사용자 업로드 파일 저장  
+
+### 📦 **버전 관리 & 협업**  
+- **Git/GitHub** - 소스 코드 관리  
+- **Git Fork** - 협업을 위한 브랜치 전략  
+
+### 📑 **문서 및 기획**  
+- **Notion** - 프로젝트 관리 및 문서화  
 ---
 
 ## 🎯 주요 기능
