@@ -55,12 +55,14 @@
 
 ## 📜 Certifications & Education
 - 📚 **자격증**  
-  - AWS Certified Solutions Architect – Associate (SAA)  
-  - Certified Kubernetes Administrator (CKA)  
+  - **AWS Certified Solutions Architect – Associate (SAA)**  
+  - **Certified Kubernetes Administrator (CKA)**
+  - **정보처리기사**
   - AWS Certified Data Engineer – Associate (DEA)
-  - 정보처리기사
   - 리눅스 마스터 2급
   - 네트워크 관리사 2급
+  - 한국사능력검정시험 1급
+  - 운전면허 1종 보통
   - ...
 
 - 🎓 **교육 과정**  
