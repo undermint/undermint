@@ -8,6 +8,7 @@
 ## 📂 About Me
 - 🌱 현재: 클라우드 엔지니어 취업 준비 중  
 - 🔥 관심 기술: AWS, Kubernetes, Helm, IaC, ArgoCD
+- 📝 이력서: [이력서_황준서.pdf](https://github.com/user-attachments/files/19099926/_.pdf)
 - 🏆 주요 자격증: AWS-SAA, CKA, 정보처리기사
 <img src="https://github.com/user-attachments/assets/90d565a2-d3ca-4289-9120-30e65c8c5ded" width="150" height="auto">
 <img src="https://github.com/user-attachments/assets/b454df73-6cd4-4ee0-b4a3-974040a0d338" width="150" height="auto">
@@ -15,6 +16,12 @@
 
 
 ---
+
+
+
+
+
+
 
 ## 💼 Projects
 
@@ -24,60 +31,79 @@
 - 🎯 **주요 기여**:
   - 백엔드 서버 구축 및 데이터베이스 설계  
   - AI 기반 감정 분석 알고리즘 구현  
-  - 배포 및 운영 모니터링 환경 구축
-  
-> **웹사이트 - https://insideu-e7710.firebaseapp.com**
+  - 배포 및 운영 모니터링 환경 구축  
 
-### 2. AWS
-   > - [AWS 퍼블릭 클라우드 구성](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/AWS%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Team%20Renew.pdf)
->  - [EKS 클러스터와 ELB 구성](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/EKS-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Team-Renew.pdf)
-- 🛠 **기술 스택**: AWS VPC, EC2, S3, RDS, CloudWatch, CloudFront, EKS
-- 💡 **주제**: AWS를 활용한 퍼블릭 클라우드 구성 및 EKS 클러스터와 ELB 구성
-- 📝 **내용**: AWS를 활용한 클라우드 인프라 구축 및 고가용성 설계. 인프라 자동화와 모니터링 및 경보 설정. Auto Scaling과 ELB를 이용한 트래픽 분산 및 확장성 구현.
+> **웹사이트 - [InsideU](https://insideu-e7710.firebaseapp.com)**
+
+---
+
+### 2. AWS  
+- 📄 **관련 문서**:
+  - [AWS 퍼블릭 클라우드 구성](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/AWS%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Team%20Renew.pdf)  
+  - [EKS 클러스터와 ELB 구성](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/EKS-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Team-Renew.pdf)  
+- 🛠 **기술 스택**: AWS VPC, EC2, S3, RDS, CloudWatch, CloudFront, EKS  
+- 💡 **설명**: AWS를 활용한 퍼블릭 클라우드 인프라 구축 및 고가용성 설계  
 - 🎯 **주요 기여**:
-  -  VPC 및 서브넷 설계 및 구축
-  - CloudFront 및 S3를 활용한 정적 웹 사이트 호스팅
-  - EKS 클러스터 구축 및 관리
+  - VPC 및 서브넷 설계 및 구축  
+  - CloudFront 및 S3를 활용한 정적 웹 사이트 호스팅  
+  - EKS 클러스터 구축 및 관리  
 
-  
-### 3. [k8s](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/k8s%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Team%20Renew.pdf)
-- 🛠 **기술 스택**: 
-- 💡 **설명**: 
+---
+
+### 3. [Kubernetes (k8s)](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/k8s%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Team%20Renew.pdf)
+- 🛠 **기술 스택**: Kubernetes, Docker
+- 💡 **설명**: Kubernetes 실습을 통한 CKA 시험 대비 및 클러스터 운영
 - 🎯 **주요 기여**:
+  - Kubernetes 클러스터 설치 및 배포 환경 설정
+  - YAML로 Kubernetes 리소스 배포 및 관리
+  - RBAC 설정
+  - 노드 스케줄링 및 Pod 재배치 관리
 
-- 
-### 3. [Rocky Linux](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/%EB%A6%AC%EB%88%85%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_3%EC%A1%B0_%EB%A6%AC%EB%89%B4.pdf)
-- 🛠 **기술 스택**: 
-- 💡 **설명**: 
+---
+
+### 4. [Rocky Linux](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/%EB%A6%AC%EB%88%85%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_3%EC%A1%B0_%EB%A6%AC%EB%89%B4.pdf)
+- 🛠 **기술 스택**: Rocky Linux 9
+- 💡 **설명**: Rocky Linux 9를 활용한 리눅스 서버 구성
 - 🎯 **주요 기여**:
+  - Rocky Linux 기반 서버 구축 및 운영  
+  - 서버 설치 및 네트워크 구성
+  - 사용자 관리 및 LVM 설정
+  - 서버 서비스 설치 및 방화벽 설정
 
+---
 
-### 3. [네트워크](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/Renew_CCIE_170.pdf)
-- 🛠 **기술 스택**: 
-- 💡 **설명**: 
+### 5. [vSphere](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/vSphere%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_3%EC%A1%B0_Team%20Renew.pdf)
+- 🛠 **기술 스택**: VMware vSphere, ESXi, vCenter  
+- 💡 **설명**: VMware vSphere 기반 서버 가상화 구현
 - 🎯 **주요 기여**:
+  - vSphere 환경에서 가상머신 배포 및 최적화
+  - ESXi 설치 및 vCenter 구성
+  - 고가용성(HA) 및 FT 설정
+  - 가상 네트워크 및 스토리지 구성  
 
+---
 
-### 3. [vSphere](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/vSphere%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_3%EC%A1%B0_Team%20Renew.pdf)
-- 🛠 **기술 스택**: 
-- 💡 **설명**: 
+### 6. [네트워크](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/Renew_CCIE_170.pdf)
+- 🛠 **기술 스택**: XShell 8, L3-switch CISCO catalyst 3550, Router CISCO 2600, IOU-Web
+- 💡 **설명**: CISCO 라우터와 스위치를 이용한 네트워크 설정
 - 🎯 **주요 기여**:
+  - 물리적 구성도 및 IP 구성도 설계
+  - IP IGP 프로토콜 구성 (RIP, OSPF)
+  - VLAN 구성 및 관리 인터페이스 설정
+
+---
 
 
-### 3. [Firewall](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/Team-Renew_%EB%B0%A9%ED%99%94%EB%B2%BD-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)
-- 🛠 **기술 스택**: 
-- 💡 **설명**: 
-- 🎯 **주요 기여**:
+### 7. [특허 출원](https://doi.org/10.8080/1020200041488) (거절 상태)
+- 💡 **설명**: 전자레인지와 연동하는 음성 광고 시스템 및 운용 방법  
+- 🎯 **출원 요약**:  
+  본 발명은 전자레인지의 동작에 의해 발생하는 전력량을 검출하여 광고 송출 모듈을 통해 광고 콘텐츠 및 미디어 파일이 노출되는 시스템이다.  
+  - 광고 송출 모듈의 위치 기반 통계 집계 및 서버 전송  
+  - 사용자에게 광고 노출을 통해 수익 창출  
+  - 전자레인지 사용 시간을 활용한 정보 제공 및 광고 노출  
 
 
-### 3. [특허 출원](링크)
-- 💡 **설명**: 전자레인지와 연동하는 음성 광고 시스템 및 운용 방법
-- 🎯 **출원 요약**:
 
-  본 발명은 전자레인지의 동작에 의해 발생하는 전력량을 검출하여 광고 송출 모듈을 통해 광고 콘텐츠 및 미디어 파일이 노출되어지고, 광고 송출 모듈의 고유위치코드를 식별 및 통계를 집계하여 서버에 전송하게된다. 본 발명은 현대사회에서 바쁘게 살고있는 사용자들이 주로 이용하는 편의시설등에서 정보를 제공하고, 전자레인지를 사용하기 위한 시간에 심심함을 해소해주는 기능을 동시에 광고 콘텐츠 노출을 통한 수익을 발생할 수 있는 전자레인지와 연동하는 음성광고 시스템 및 운용 방법이다.
-- 특허(현 거절상태): [출원 정보 바로가기](https://doi.org/10.8080/1020200041488)
- 
-> 업데이트 중
 
  
 ---
