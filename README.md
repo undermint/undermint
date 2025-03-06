@@ -64,7 +64,7 @@
 ---
 
 ### 4. [Rocky Linux](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/%EB%A6%AC%EB%88%85%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_3%EC%A1%B0_%EB%A6%AC%EB%89%B4.pdf)
-- 📄 **관련 문서**:
+- 📄 **관련 문서**: [Linux.pdf](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/%EB%A6%AC%EB%88%85%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_3%EC%A1%B0_%EB%A6%AC%EB%89%B4.pdf)
 - 🛠 **기술 스택**: Rocky Linux 9
 - 💡 **설명**: Rocky Linux 9를 활용한 리눅스 서버 구성
 - 🎯 **주요 기여**:
