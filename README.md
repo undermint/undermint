@@ -26,6 +26,7 @@
 ## 💼 Projects
 
 ### 1. [Node.js와 Firebase를 활용한 감정 분석 AI 일기 웹사이트](https://github.com/undermint/undermint/tree/main/Project_EmotionCard_Diary)
+- 📄 **관련 문서**: [감정 분석 AI 일기 웹사이트](https://github.com/undermint/undermint/tree/main/Project_EmotionCard_Diary)
 - 🛠 **기술 스택**: Node.js, Firebase, Firestore, Express, 카카오톡 API  
 - 💡 **설명**: 감정 카드를 작성하고 AI 분석을 통해 감정을 피드백해주는 서비스  
 - 🎯 **주요 기여**:
@@ -51,6 +52,7 @@
 ---
 
 ### 3. [Kubernetes (k8s)](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/k8s%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Team%20Renew.pdf)
+- 📄 **관련 문서**: [Kubernetes(k8s).pdf](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/k8s%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Team%20Renew.pdf)
 - 🛠 **기술 스택**: Kubernetes, Docker
 - 💡 **설명**: Kubernetes 실습을 통한 CKA 시험 대비 및 클러스터 운영
 - 🎯 **주요 기여**:
@@ -62,6 +64,7 @@
 ---
 
 ### 4. [Rocky Linux](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/%EB%A6%AC%EB%88%85%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_3%EC%A1%B0_%EB%A6%AC%EB%89%B4.pdf)
+- 📄 **관련 문서**:
 - 🛠 **기술 스택**: Rocky Linux 9
 - 💡 **설명**: Rocky Linux 9를 활용한 리눅스 서버 구성
 - 🎯 **주요 기여**:
@@ -73,6 +76,7 @@
 ---
 
 ### 5. [vSphere](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/vSphere%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_3%EC%A1%B0_Team%20Renew.pdf)
+- 📄 **관련 문서**: [vSphere.pdf](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/vSphere%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_3%EC%A1%B0_Team%20Renew.pdf)
 - 🛠 **기술 스택**: VMware vSphere, ESXi, vCenter  
 - 💡 **설명**: VMware vSphere 기반 서버 가상화 구현
 - 🎯 **주요 기여**:
@@ -84,6 +88,7 @@
 ---
 
 ### 6. [네트워크](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/Renew_CCIE_170.pdf)
+- 📄 **관련 문서**: [네트워크.pdf](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/Renew_CCIE_170.pdf)
 - 🛠 **기술 스택**: XShell 8, L3-switch CISCO catalyst 3550, Router CISCO 2600, IOU-Web
 - 💡 **설명**: CISCO 라우터와 스위치를 이용한 네트워크 설정
 - 🎯 **주요 기여**:
@@ -95,6 +100,7 @@
 
 
 ### 7. [특허 출원](https://doi.org/10.8080/1020200041488) (거절 상태)
+- 📄 **관련 문서**: [특허 사이트](https://doi.org/10.8080/1020200041488)
 - 💡 **설명**: 전자레인지와 연동하는 음성 광고 시스템 및 운용 방법  
 - 🎯 **출원 요약**:  
   본 발명은 전자레인지의 동작에 의해 발생하는 전력량을 검출하여 광고 송출 모듈을 통해 광고 콘텐츠 및 미디어 파일이 노출되는 시스템이다.  
