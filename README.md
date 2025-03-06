@@ -26,46 +26,49 @@
   - AI 기반 감정 분석 알고리즘 구현  
   - 배포 및 운영 모니터링 환경 구축
   
-- **웹사이트 - https://insideu-e7710.firebaseapp.com**
+> **웹사이트 - https://insideu-e7710.firebaseapp.com**
 
-### 2. [AWS 기반 클라우드 서비스 구축 프로젝트](링크)
-- 🛠 **기술 스택**: AWS EC2, S3, Lambda, Terraform, Kubernetes  
-- 💡 **설명**: AWS 인프라를 활용한 클라우드 서비스 구축 및 모니터링 시스템 개발  
+### 2. AWS
+   > - [AWS 퍼블릭 클라우드 구성](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/AWS%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Team%20Renew.pdf)
+>  - [EKS 클러스터와 ELB 구성](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/EKS-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Team-Renew.pdf)
+- 🛠 **기술 스택**: AWS VPC, EC2, S3, RDS, CloudWatch, CloudFront, EKS
+- 💡 **주제**: AWS를 활용한 퍼블릭 클라우드 구성 및 EKS 클러스터와 ELB 구성
+- 📝 **내용**: AWS를 활용한 클라우드 인프라 구축 및 고가용성 설계. 인프라 자동화와 모니터링 및 경보 설정. Auto Scaling과 ELB를 이용한 트래픽 분산 및 확장성 구현.
 - 🎯 **주요 기여**:
-  -   
-  -   
-  - Kubernetes를 활용한 컨테이너 오케스트레이션  
-### 3. [k8s](링크)
+  -  VPC 및 서브넷 설계 및 구축
+  - CloudFront 및 S3를 활용한 정적 웹 사이트 호스팅
+  - EKS 클러스터 구축 및 관리
+
+  
+### 3. [k8s](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/k8s%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Team%20Renew.pdf)
 - 🛠 **기술 스택**: 
 - 💡 **설명**: 
 - 🎯 **주요 기여**:
-- 📑 **PDF**: [k8s PDF]
+
 - 
-### 3. [Rocky Linux](링크)
+### 3. [Rocky Linux](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/%EB%A6%AC%EB%88%85%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_3%EC%A1%B0_%EB%A6%AC%EB%89%B4.pdf)
 - 🛠 **기술 스택**: 
 - 💡 **설명**: 
 - 🎯 **주요 기여**:
-- 📑 **PDF**: [k8s PDF]
 
 
-
-
-### 3. [네트워크](링크)
+### 3. [네트워크](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/Renew_CCIE_170.pdf)
 - 🛠 **기술 스택**: 
 - 💡 **설명**: 
 - 🎯 **주요 기여**:
-- 📑 **PDF**: [k8s PDF]
 
-- ### 3. [vSphere](링크)
+
+### 3. [vSphere](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/vSphere%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_3%EC%A1%B0_Team%20Renew.pdf)
 - 🛠 **기술 스택**: 
 - 💡 **설명**: 
 - 🎯 **주요 기여**:
-- 📑 **PDF**: [k8s PDF]
 
-- ### 3. [특허 신청](링크)
+
+### 3. [Firewall](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/Team-Renew_%EB%B0%A9%ED%99%94%EB%B2%BD-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)
 - 🛠 **기술 스택**: 
 - 💡 **설명**: 
 - 🎯 **주요 기여**:
+
 
 ### 3. [특허 출원](링크)
 - 💡 **설명**: 전자레인지와 연동하는 음성 광고 시스템 및 운용 방법
