@@ -108,7 +108,8 @@
   - 사용자에게 광고 노출을 통해 수익 창출  
   - 전자레인지 사용 시간을 활용한 정보 제공 및 광고 노출  
 
-
+### 8. 프로젝트: Terraform, GitOps (ArgoCD), CI/CD (GitHub Actions)를 활용한 Kubernetes 클러스터 구축 및 애플리케이션 자동 배포
+> 진행 중
 
 
  
