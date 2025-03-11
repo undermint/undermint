@@ -110,7 +110,7 @@
   - 전자레인지 사용 시간을 활용한 정보 제공 및 광고 노출  
 
 ### 8. 프로젝트: Terraform, GitOps (ArgoCD), CI/CD (GitHub Actions)를 활용한 Kubernetes 클러스터 구축 및 애플리케이션 자동 배포
-> 진행 중
+> [진행 중](https://velog.io/@under_js/Project-Terraform%EA%B3%BC-GitOps%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%9C-Kubernetes-%EA%B8%B0%EB%B0%98-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94)
 
 
  
