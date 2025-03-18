@@ -10,6 +10,7 @@
 - 🔥 관심 기술: Helm, IaC, ArgoCD, GitOps
 - 📝 이력서: [이력서_황준서.pdf](https://github.com/undermint/undermint/blob/main/Data/%EC%9D%B4%EB%A0%A5%EC%84%9C_%ED%99%A9%EC%A4%80%EC%84%9C.pdf)
 - 기술 블로그: [velog.io/@under_js](https://velog.io/@under_js)
+- 노션 공부 자료: [Notion](https://rainbow-wavelength-a76.notion.site/1bae20ec49bd8035b2cddd70d788772d)
 - 🏆 주요 자격증: AWS-SAA, CKA, 정보처리기사
 <img src="https://github.com/user-attachments/assets/90d565a2-d3ca-4289-9120-30e65c8c5ded" width="150" height="auto">
 <img src="https://github.com/user-attachments/assets/b454df73-6cd4-4ee0-b4a3-974040a0d338" width="150" height="auto">
